@@ -1,13 +1,16 @@
 DIVS Chess
 ==========
 
+![](http://i.imgur.com/97YsLv3.png)
+
 Viktor (@vikisonline) and I wrote this 3D chess program, complete with shitty
 AI, in roughly half a month during the end of 2009 and start of 2010. It was crunch time.
 
-We [hosted the project on SF](https://sourceforge.net/projects/divschess/) after
-we finished but never touched it. People are still downloading it!
+We [hosted the project on SF](https://sourceforge.net/projects/divschess/) and
+[Google Code](https://code.google.com/p/divs/) after we finished but never touched it.
+Apparently people are still downloading it!
 
-Awesome features (copied from our SF page):
+Features:
 
 - Choose AI difficulty
 - Editable board
